@@ -1,5 +1,3 @@
-# Project Name
-
 ## HTMX reading list
 
 ## Overview
